@@ -1,0 +1,21 @@
+h1 {
+  color: rgb(3, 169, 244);
+  font-size: 36px;
+  text-align: center;
+  font-family: Homemade Apple, Dosis;
+}
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  height: auto;
+}
+button {
+  width: 70%;
+  height: 35px;
+  flex-direction: row;
+  border: black solid 1px;
+  border-radius: 10px;
+  line-height: 1px;
+}

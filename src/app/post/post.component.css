@@ -1,0 +1,39 @@
+article {
+  width: 100vw;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+}
+section {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+  height: 50%;
+  border-radius: 15px;
+  background-color: #f3f1f7;
+}
+div {
+  display: flex;
+  justify-content: space-between;
+
+  border: black solid 1px;
+  height: auto;
+  border-radius: 7px;
+  line-height: 1px;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+h2 {
+  font-size: 24px;
+  font-family: Dosis;
+  padding-left: 50px;
+}
+p {
+  font-size: 20px;
+  padding-left: 75px;
+  font-family: Dosis;
+}
